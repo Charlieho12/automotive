@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title>Bushings</title>
+  <desc>Illustrated bushings for EGI Worldwide.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#0a203a"/><stop offset="100%" stop-color="#174770"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#bg)" rx="36"/>
+  <g opacity="0.12" stroke="#ffffff"><path d="M0 200h1200M0 400h1200M0 600h1200"/><path d="M200 0v800M400 0v800M600 0v800M800 0v800M1000 0v800"/></g>
+  <g transform="translate(250 170)">
+    <circle cx="260" cy="220" r="160" fill="#d99f3a"/>
+    <circle cx="260" cy="220" r="94" fill="#0b1d35"/>
+    <circle cx="620" cy="220" r="120" fill="#c68c2e"/>
+    <circle cx="620" cy="220" r="66" fill="#0b1d35"/>
+    <circle cx="440" cy="120" r="58" fill="#f3f6fb"/>
+    <circle cx="440" cy="120" r="22" fill="#ffd24a"/>
+  </g>
+  <text x="90" y="122" fill="#ffd24a" font-size="30" font-family="Arial, sans-serif" font-weight="700" letter-spacing="5">EGI WORLDWIDE</text>
+  <text x="90" y="665" fill="#ffffff" font-size="82" font-family="Arial, sans-serif" font-weight="700">Bushings</text>
+  <text x="90" y="720" fill="#d9e3ef" font-size="28" font-family="Arial, sans-serif">Starter bushing inventory and part-number lookup</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title>Starter drives</title>
+  <desc>Illustrated starter drives for EGI Worldwide.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#081c34"/><stop offset="100%" stop-color="#15436b"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#bg)" rx="36"/>
+  <g opacity="0.12" stroke="#ffffff"><path d="M0 160h1200M0 320h1200M0 480h1200M0 640h1200"/><path d="M180 0v800M360 0v800M540 0v800M720 0v800M900 0v800M1080 0v800"/></g>
+  <g transform="translate(210 220)">
+    <rect x="120" y="120" width="470" height="92" rx="42" fill="#f3f6fb"/>
+    <rect x="500" y="102" width="210" height="128" rx="32" fill="#d5deea"/>
+    <circle cx="730" cy="166" r="82" fill="#ffd24a"/>
+    <circle cx="730" cy="166" r="48" fill="#153b67"/>
+    <path d="M730 70v42M730 220v42M634 166h42M784 166h42M664 100l28 28M768 204l28 28M796 100l-28 28M692 204l-28 28" stroke="#153b67" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <text x="90" y="122" fill="#ffd24a" font-size="30" font-family="Arial, sans-serif" font-weight="700" letter-spacing="5">EGI WORLDWIDE</text>
+  <text x="90" y="665" fill="#ffffff" font-size="78" font-family="Arial, sans-serif" font-weight="700">Starter Drives</text>
+  <text x="90" y="720" fill="#d9e3ef" font-size="28" font-family="Arial, sans-serif">Drive assemblies and targeted starter subcomponents</text>
+</svg>

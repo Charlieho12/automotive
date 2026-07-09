@@ -2,15 +2,15 @@
 
 :root {
   --color-bg: #f4f7fb;
-  --color-bg-soft: #ebeff6;
-  --color-surface: #0d1728;
+  --color-bg-soft: #e9eef6;
+  --color-surface: #092343;
   --color-panel: #ffffff;
-  --color-line: #d9e1ef;
-  --color-heading: #0e1d34;
-  --color-body: #24374f;
-  --color-muted: #4f6078;
-  --color-accent: #eb5a2a;
-  --color-accent-soft: #ffd8bf;
+  --color-line: #d3ddea;
+  --color-heading: #0b1d35;
+  --color-body: #23405f;
+  --color-muted: #58708d;
+  --color-accent: #f2c230;
+  --color-accent-soft: #fff1b8;
 }
 
 @theme inline {
@@ -18,21 +18,8 @@
   --font-heading: var(--font-rajdhani);
 }
 
-html.dark {
-  --color-bg: #050a14;
-  --color-bg-soft: #0b1323;
-  --color-surface: #070d19;
-  --color-panel: #121d2f;
-  --color-line: #24364f;
-  --color-heading: #ebf3ff;
-  --color-body: #c7d4e7;
-  --color-muted: #9fb1ca;
-  --color-accent: #ff7144;
-  --color-accent-soft: #ffd0ba;
-}
-
 body {
-  background: radial-gradient(circle at top right, #102340 0%, var(--color-bg) 45%, var(--color-bg) 100%);
+  background: radial-gradient(circle at top right, #153a67 0%, var(--color-bg) 42%, var(--color-bg) 100%);
   color: var(--color-body);
   font-family: var(--font-space-grotesk), sans-serif;
 }
@@ -92,7 +79,7 @@ button {
 
 .btn-primary {
   background: var(--color-accent);
-  color: white;
+  color: #0b1d35;
   box-shadow: 0 8px 24px -12px var(--color-accent);
 }
 
@@ -120,9 +107,18 @@ button {
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(circle at 88% 20%, rgba(235, 90, 42, 0.35), transparent 30%),
-    radial-gradient(circle at 12% 80%, rgba(13, 23, 40, 0.6), transparent 36%);
+    linear-gradient(110deg, rgba(5, 20, 38, 0.82) 0%, rgba(8, 31, 57, 0.64) 42%, rgba(8, 31, 57, 0.34) 100%),
+    radial-gradient(circle at 88% 20%, rgba(242, 194, 48, 0.2), transparent 26%),
+    radial-gradient(circle at 12% 80%, rgba(9, 35, 67, 0.78), transparent 36%);
   pointer-events: none;
+}
+
+.hero-heading {
+  text-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+}
+
+.hero-copy {
+  text-shadow: 0 4px 18px rgba(0, 0, 0, 0.42);
 }
 
 .glass-card {
@@ -142,7 +138,7 @@ button {
 .floating-orb-1 {
   width: 4.25rem;
   height: 4.25rem;
-  background: rgba(255, 113, 68, 0.5);
+  background: rgba(242, 194, 48, 0.55);
   left: -1.2rem;
   top: -1rem;
 }
@@ -236,7 +232,7 @@ button {
   height: 0.95rem;
   border-radius: 999px;
   background: var(--color-accent);
-  box-shadow: 0 0 0 8px rgba(235, 90, 42, 0.15);
+  box-shadow: 0 0 0 8px rgba(242, 194, 48, 0.18);
 }
 
 .map-point span {

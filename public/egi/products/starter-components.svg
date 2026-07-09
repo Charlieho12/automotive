@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title>Starter components</title>
+  <desc>Illustrated starter components for EGI Worldwide.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#0b223d"/><stop offset="100%" stop-color="#1a4974"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#bg)" rx="36"/>
+  <g opacity="0.12" stroke="#ffffff"><path d="M0 160h1200M0 320h1200M0 480h1200M0 640h1200"/><path d="M180 0v800M360 0v800M540 0v800M720 0v800M900 0v800M1080 0v800"/></g>
+  <g transform="translate(170 210)">
+    <circle cx="130" cy="190" r="76" fill="#f3f6fb"/>
+    <circle cx="130" cy="190" r="34" fill="#ffd24a"/>
+    <rect x="280" y="110" width="120" height="160" rx="22" fill="#d5deea"/>
+    <circle cx="530" cy="190" r="92" fill="#f3f6fb"/>
+    <circle cx="530" cy="190" r="44" fill="#153b67"/>
+    <rect x="690" y="130" width="170" height="120" rx="22" fill="#ffd24a"/>
+    <rect x="738" y="164" width="74" height="52" rx="12" fill="#153b67"/>
+    <path d="M206 190h74M420 190h54M622 190h50" stroke="#ffd24a" stroke-width="16" stroke-linecap="round" stroke-dasharray="18 14"/>
+  </g>
+  <text x="90" y="122" fill="#ffd24a" font-size="30" font-family="Arial, sans-serif" font-weight="700" letter-spacing="5">EGI WORLDWIDE</text>
+  <text x="90" y="665" fill="#ffffff" font-size="72" font-family="Arial, sans-serif" font-weight="700">Starter Components</text>
+  <text x="90" y="720" fill="#d9e3ef" font-size="28" font-family="Arial, sans-serif">Bushings, drives, levers, insulators and related parts</text>
+</svg>

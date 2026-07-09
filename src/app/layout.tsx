@@ -14,15 +14,17 @@ const rajdhani = Rajdhani({
 });
 
 export const metadata: Metadata = {
-  title: "Axion Drive Systems | Automotive Electrical Components",
+  title: "EGI Worldwide | Starters, Alternators, Components & Equipment",
   description:
-    "Global manufacturer and distributor of premium automotive alternators, starters, and aftermarket electrical components.",
+    "Modernized EGI Worldwide website featuring starter inventory, alternator inventory, electrical components, excess inventory, and equipment listings.",
   keywords: [
-    "automotive electrical parts",
+    "EGI Worldwide",
+    "starter inventory",
     "alternators",
     "starters",
-    "aftermarket components",
-    "global distributor",
+    "electrical components",
+    "excess inventory",
+    "equipment listings",
   ],
 };
 

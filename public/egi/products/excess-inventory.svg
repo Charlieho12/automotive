@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title>Excess inventory</title>
+  <desc>Illustrated excess inventory for EGI Worldwide.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#09213c"/><stop offset="100%" stop-color="#174a77"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#bg)" rx="36"/>
+  <g opacity="0.12" stroke="#ffffff"><path d="M0 160h1200M0 320h1200M0 480h1200M0 640h1200"/><path d="M150 0v800M300 0v800M450 0v800M600 0v800M750 0v800M900 0v800M1050 0v800"/></g>
+  <g transform="translate(230 200)">
+    <rect x="90" y="160" width="200" height="180" rx="18" fill="#d5deea"/>
+    <rect x="300" y="110" width="220" height="230" rx="18" fill="#f3f6fb"/>
+    <rect x="545" y="170" width="190" height="170" rx="18" fill="#d5deea"/>
+    <path d="M90 160l100-60 100 60M300 110l110-62 110 62M545 170l95-58 95 58" stroke="#0b1d35" stroke-width="10" fill="none"/>
+    <circle cx="830" cy="132" r="56" fill="#ffd24a"/>
+    <text x="790" y="142" fill="#0b1d35" font-size="30" font-family="Arial, sans-serif" font-weight="700">SALE</text>
+  </g>
+  <text x="90" y="122" fill="#ffd24a" font-size="30" font-family="Arial, sans-serif" font-weight="700" letter-spacing="5">EGI WORLDWIDE</text>
+  <text x="90" y="665" fill="#ffffff" font-size="74" font-family="Arial, sans-serif" font-weight="700">Excess Inventory</text>
+  <text x="90" y="720" fill="#d9e3ef" font-size="28" font-family="Arial, sans-serif">Overstock opportunities across electrical part families</text>
+</svg>

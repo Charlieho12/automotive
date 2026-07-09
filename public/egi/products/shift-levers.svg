@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title>Shift levers</title>
+  <desc>Illustrated shift levers for EGI Worldwide.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#0a213c"/><stop offset="100%" stop-color="#194975"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#bg)" rx="36"/>
+  <g opacity="0.12" stroke="#ffffff"><path d="M0 160h1200M0 320h1200M0 480h1200M0 640h1200"/><path d="M200 0v800M400 0v800M600 0v800M800 0v800M1000 0v800"/></g>
+  <g transform="translate(250 160)">
+    <circle cx="230" cy="140" r="56" fill="#ffd24a"/>
+    <path d="M232 188l220 160" stroke="#f3f6fb" stroke-width="34" stroke-linecap="round"/>
+    <path d="M452 348l170-62" stroke="#d5deea" stroke-width="28" stroke-linecap="round"/>
+    <circle cx="632" cy="282" r="36" fill="#ffd24a"/>
+    <circle cx="462" cy="352" r="30" fill="#f3f6fb"/>
+  </g>
+  <text x="90" y="122" fill="#ffd24a" font-size="30" font-family="Arial, sans-serif" font-weight="700" letter-spacing="5">EGI WORLDWIDE</text>
+  <text x="90" y="665" fill="#ffffff" font-size="78" font-family="Arial, sans-serif" font-weight="700">Shift Levers</text>
+  <text x="90" y="720" fill="#d9e3ef" font-size="28" font-family="Arial, sans-serif">Specialized starter linkage and lever components</text>
+</svg>
